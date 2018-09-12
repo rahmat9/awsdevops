@@ -1,0 +1,8 @@
+1. git config --global user.name " "
+2. git config --global user.email " "
+3. git add / git add -A
+4. git commit -m "message"
+5. git push origin master
+6. git log
+7. git log -i
+8. 
