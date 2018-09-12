@@ -11,5 +11,22 @@ Note: Follow the 1 n 2 steps for creating a bitbucket account.
 3. In gitbash --->    git config --global user.name "*****"
                       git config --global user.email "****"
 
-		      git clone "githubrepolink#https******"
+		      git clone "githubrepolink#https
+4. After cloning --> go to the directory/Repository
+
+   Then, create a files/programs as per requirement.
+
+5. Follow , git commands 1. git add -A ; git commit -m "INC123" ; git push origin master
+
+6. git pull  , which is useful ..it gets latest updated code. 
+
+7. git branch is a command which we can see, what are the available branches.
+
+8. We need to observe the pointer to identify the branch.
+
+9. To merge the branch, we need to go master branch and the use git merge branchname
+
+10. we can use git branch -d branchname eg: git branch - tst.
+
+11. to discard the changes, git branch -D branchname
 

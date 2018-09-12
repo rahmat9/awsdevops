@@ -7,3 +7,4 @@
 7. git log -i
 8. git branch ( from tst )
 9. git branch branchname
+10.git checkout master
