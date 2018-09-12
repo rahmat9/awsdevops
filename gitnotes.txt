@@ -1,0 +1,15 @@
+This is my git learning notes.Which i believe its useful for reference in job search n updating skills.
+
+1. Log into github.com and create a account.
+
+2. Download gitbash on windows
+
+Note: Git is like a software and github is like a provider.
+
+Note: Follow the 1 n 2 steps for creating a bitbucket account.
+
+3. In gitbash --->    git config --global user.name "*****"
+                      git config --global user.email "****"
+
+		      git clone "githubrepolink#https******"
+
